@@ -1,0 +1,9 @@
+in treminal(ps/cmd):
+navigate to /server and run npm install.
+navigate to /client and run npm install.
+
+run server with node index in /server directory.
+
+run client with npm start in /clinet directory.
+
+run simulator by opening simulator.html in simulation directory.
